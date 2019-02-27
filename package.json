@@ -1,0 +1,14 @@
+{
+  "name": "Bootcamp-GoNode-Desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Obara <DanielObara@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nunjucks": "^3.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
